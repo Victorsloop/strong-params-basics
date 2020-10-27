@@ -128,3 +128,4 @@ end
 ```
 
 Test this out in the browser and you can see that you can now create and update posts without any errors. And you will also notice that all of the Rspec tests are still passing.
+## Basically so yo can learn a new form of doing it. It passed tests right aqay but still atempt to learn 
